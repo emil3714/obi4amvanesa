@@ -1,0 +1,22 @@
+body {  
+    font-family: Arial, sans-serif;  
+    background-color: pink; /* Fondo rosa */  
+    margin: 0;  
+    padding: 0;  
+}  
+
+.container {  
+    text-align: center; /* Centra el contenido dentro del contenedor */  
+    margin-top: 50px;  /* Espacio en la parte superior */  
+}  
+
+.texto-rosa {  
+    color: white;  /* Cambié el color del texto a blanco para mayor contraste */  
+}  
+
+.imagen-centrada {  
+    display: block; /* Hace que la imagen sea un bloque */  
+    margin: 0 auto; /* Centra la imagen */  
+    width: 400px; /* Ancho de la imagen (ajustado a tamaño mediano) */  
+    height: auto; /* Mantiene la proporción de la imagen */  
+}  
